@@ -1,4 +1,4 @@
-package timerProgram;
+package task1;
 
 import java.util.concurrent.TimeUnit;
 

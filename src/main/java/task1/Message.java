@@ -1,4 +1,4 @@
-package timerProgram;
+package task1;
 
 class Message implements Runnable {
     @Override

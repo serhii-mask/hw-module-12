@@ -1,4 +1,4 @@
-package timerProgram;
+package task1;
 
 public class TimerProgram {
     public static void main(String[] args) {
